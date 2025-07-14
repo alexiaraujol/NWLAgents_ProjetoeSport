@@ -1,16 +1,19 @@
-# Projeto NLW Agents - Rocketseat
+🎮 Projeto NLW Agents – Rocketseat
+Este projeto foi desenvolvido durante o evento Next Level Week (NLW) - Edição Agentes promovido pela Rocketseat.
 
-- É um projeto que foi feito durante o NLW Agentes do Rocketseat
+🧠 Sobre o projeto
+eSport é uma plataforma web voltada para o universo dos jogos, que utiliza inteligência artificial para oferecer aos usuários informações estratégicas sobre seus jogos favoritos. Por meio da IA, os usuários podem acessar builds, recursos e dicas para aprimorar sua jogabilidade.
 
-    
-- Como é o projeto? 
+🚀 Tecnologias utilizadas
+O projeto foi construído utilizando as seguintes tecnologias:
 
-    - é uma plataforma de jogos que o usuário através da IA consegue acessar builds, estratégias e recursos do jogo da sua escolha. 
+HTML5
 
-- Linguagens usadas: 
-    - HTML
-    - CSS
-    - JAVASCRIPT 
-    - Com a implementação da IA Gemini
-   
-Link para acessar o site pronto: nwl-agents-projetoe-sport.vercel.app
+CSS3
+
+JavaScript
+
+🔗 Acesse o projeto
+Você pode visualizar o projeto online clicando no link abaixo:
+
+👉 nwl-agents-projetoe-sport.vercel.app
