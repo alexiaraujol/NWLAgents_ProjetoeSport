@@ -118,5 +118,46 @@ button {
 button:hover {
     cursor: pointer;
     transform: translateY(-2px);
-    box-shadow: 0 5px 1rem rgba(255,248, 107, 0.2);
-} 
+    box-shadow: 0 5px 1rem rgba(255, 248, 107, 0.2);
+}
+
+button:disabled {
+    transition: none;
+    transform: translate(0);
+    box-shadow: none;
+    cursor: not-allowed;
+    color: black;
+
+}
+
+#aiRenponse {
+    background-color: rgba(0, 0, 0, 0.4);
+    border-radius: 0.5rem;
+    padding: 1.25rem;
+    border-left: 4px solid #43e7ad;
+    
+}
+
+#aiRenponse ul {
+    padding-left: 1.5rem;
+    opacity: 0.8;
+}
+
+#aiRenponse p {
+    color: rgba( 255, 255, 255);
+}
+
+
+.loading {
+    animation: pulse 1s infinite;
+}
+
+.hidden {
+    display: none;
+}
+
+@keyframes pulse {
+    50% {
+        opacity: 0.5;
+    }
+}
